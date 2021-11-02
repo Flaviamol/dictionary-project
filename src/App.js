@@ -1,13 +1,21 @@
 
 import './App.css';
+import DictionarySearch from "./DictionarySearch";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Dictionary</h1>
-        <h3>What word do you want to look up?</h3>
-      </header>
+      <div className="container">
+        <header>
+          <DictionarySearch />
+        </header>
+        <main>
+          <p>...</p>
+        </main>
+        <footer className="App-footer">
+          coded by Flávia Mól
+        </footer>
+      </div>
     </div>
   );
 }
