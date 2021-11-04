@@ -1,11 +1,12 @@
-.DictionarySearch {
+.DictionarySearch header {
     background-color: #282c34;
-    margin-top: 25px;
+    margin-top: 40px;
     min-height: 300px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
+    text-align: center;
     color: white;
+  }
+
+  .DictionarySearch main {
+    text-align: center;
+    margin-top: 40px;
   }

@@ -6,12 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header>
-          <DictionarySearch />
-        </header>
-        <main>
-          <p>...</p>
-        </main>
+        <DictionarySearch />
         <footer className="App-footer">
           coded by Flávia Mól
         </footer>
