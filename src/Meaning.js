@@ -1,4 +1,4 @@
-
+import "./Meaning.css";
 
 export default function Meaning (props) {
     return (

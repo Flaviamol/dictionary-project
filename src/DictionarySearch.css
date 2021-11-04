@@ -1,12 +1,35 @@
 .DictionarySearch header {
-    background-color: #282c34;
-    margin-top: 40px;
+    background-color: #C1CFC0;
+    border-radius: 10px;
+    color: #11324D;
+    margin: 40px 60px;
     min-height: 300px;
     text-align: center;
-    color: white;
+  }
+
+  .DictionarySearch h1{
+    padding: 50px;
+    margin-bottom: 0;
+  }
+
+  .DictionarySearch h3{
+    background-color: #6B7AA1;
+    padding: 25px;
+    margin: 0 -150px;
+  }
+
+  .DictionarySearch input{
+    width: 350px;
+    margin: 15px;
+    padding: 5px;
   }
 
   .DictionarySearch main {
+    background-color: #C1CFC0;
+    border-radius: 10px;
+    color: #11324D;
+    margin: 40px 100px;
     text-align: center;
     margin-top: 40px;
+    padding: 50px;
   }

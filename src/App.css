@@ -1,8 +1,10 @@
-.App {
-  text-align: center;
-}
 
 .App-footer {
   text-align: center;
   margin: 30px 0;
+  color: #11324D;
+}
+
+a {
+  color: #6B7AA1;
 }
