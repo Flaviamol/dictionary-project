@@ -26,14 +26,3 @@
     border-radius: 3px;
     color:#11324D;
   }
-
-  .DictionarySearch main {
-    background-color: #C1CFC0;
-    border-radius: 10px;
-    color: #11324D;
-    margin: 40px 100px;
-    text-align: center;
-    margin-top: 40px;
-    padding: 50px;
-    box-shadow: 0 5px 15px rgb(0 0 0 / 20%);
-  }

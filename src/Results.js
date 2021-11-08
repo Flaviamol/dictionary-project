@@ -19,9 +19,9 @@ export default function Results(props){
                 <hr className="middle-line"/>
                 {props.results.meanings.map(function(meaning, index) {
                     return (
-                      <div key={index}>
-                          <Meaning meaning={meaning} />
-                      </div>   
+                    <div key={index}>
+                        <Meaning meaning={meaning} />
+                    </div>   
                     );
                 })}
                 <hr className="bottom-line"/> 
