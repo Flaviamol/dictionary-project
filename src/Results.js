@@ -16,6 +16,7 @@ export default function Results(props){
                         </div>
                     )
                 })}
+                <hr className="middle-line"/>
                 {props.results.meanings.map(function(meaning, index) {
                     return (
                       <div key={index}>

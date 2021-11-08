@@ -1,4 +1,12 @@
-.Meaning h4, p {
+.Meaning .definition {
     text-align: start;
     padding-left: 15px;
+}
+
+.Meaning .example{
+    text-align: start;
+    padding-left: 15px;
+    font-style: italic;
+    opacity: 0.7;
+    font-size: 14px;
 }

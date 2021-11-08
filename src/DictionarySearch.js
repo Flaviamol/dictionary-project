@@ -35,7 +35,9 @@ export default function DictionarySearch(){
             <main>
                 <Results results={results}/>
             </main>
-            
+            <main>
+                <p>Photo</p>
+            </main>
         </div>
         
     )
