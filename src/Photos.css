@@ -1,4 +1,9 @@
 .Photos img{
     border-radius: 4px;
-    margin-bottom: 20px;
+    margin: 10px;
+}
+
+.top-line, .bottom-line {
+    border: 2px solid #6B7AA1;
+    margin: 30px 0 16px;
 }
